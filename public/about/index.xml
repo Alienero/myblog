@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Hugo Cactus Theme</title>
+    <link>https://ilulu.xyz/about/</link>
+    <description>Recent content in Abouts on Hugo Cactus Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Dec 2015 02:38:31 +0800</lastBuildDate>
+    <atom:link href="https://ilulu.xyz/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://ilulu.xyz/about/</link>
+      <pubDate>Sun, 06 Dec 2015 02:38:31 +0800</pubDate>
+      
+      <guid>https://ilulu.xyz/about/</guid>
+      <description>
+
+&lt;p&gt;大四软件工程在读学生，爱代码爱开源～～即将去一家卖东西的公司工作，永葆初心&lt;/p&gt;
+
+&lt;h2 id=&#34;正在做:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;正在做&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/FlexibleBroadband&#34;&gt;弹性宽带&lt;/a&gt; : 利用校园网利用闲置带宽，希望毕业前能完成开发&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Alienero/Rambo&#34;&gt;Rambo&lt;/a&gt; : 我的毕业设计&amp;hellip;Mysql分库分表中间件&lt;br&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;好友:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;好友&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://wuwen.org/&#34;&gt;无闻Unknwon&lt;/a&gt;- 我是你的大粉丝~~gogs作者&lt;br /&gt;
+&lt;a href=&#34;http://coderxie.duapp.com/&#34;&gt;谢同学&lt;/a&gt;-  最猥琐的男人&lt;br /&gt;
+&lt;a href=&#34;http://golzy.top&#34;&gt;李叼叼&lt;/a&gt;- 好基友&lt;br /&gt;
+&lt;a href=&#34;http://ios.dog/&#34;&gt;B大&lt;/a&gt;- ios dog 域名好亮&lt;br /&gt;
+&lt;a href=&#34;http://jucsinyu.com/&#34;&gt;孙组长&lt;/a&gt;- 组长好可爱&lt;br&gt;
+&lt;a href=&#34;http://harry.wiki&#34;&gt;怡同学&lt;/a&gt;- 一路上，在前行..&lt;/p&gt;
+
+&lt;h2 id=&#34;联系我:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;联系我&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Alienero&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;yiyan.lu#me.com&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
