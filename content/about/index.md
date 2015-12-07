@@ -13,11 +13,11 @@ title = "About"
 
 ## 好友
 [无闻Unknwon](https://wuwen.org/)- 我是你的大粉丝~~gogs作者                                        
-[谢同学](http://coderxie.duapp.com/)-  最猥琐的男人                         
+[谢同学](http://zhaodong.duapp.com/)-  最猥琐的男人                         
 [李叼叼](http://golzy.top)- 好基友             
 [B大](http://ios.dog/)- ios dog 域名好亮             
 [孙组长](http://jucsinyu.com/)- 组长好可爱<br>
-[怡同学](http://harry.wiki)- 一路上，在前行..
+[怡同学](http://harry.wiki/)- 一路上，在前行..
 
 ## 联系我
 * [Github](https://github.com/Alienero)
