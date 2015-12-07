@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yim&#39;s Blog</title>
-    <link>/</link>
+    <link>https://ilulu.xyz/</link>
     <description>Recent content on Yim&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Dec 2015 02:38:31 +0800</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ilulu.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://ilulu.xyz/about/</link>
       <pubDate>Sun, 06 Dec 2015 02:38:31 +0800</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://ilulu.xyz/about/</guid>
       <description>
 
 &lt;p&gt;大四软件工程在读学生，爱代码爱开源～～即将去一家卖东西的公司工作，永葆初心&lt;/p&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>IamServer 第一内测版单机搭建</title>
-      <link>/post/livebuild/</link>
+      <link>https://ilulu.xyz/post/livebuild/</link>
       <pubDate>Thu, 03 Dec 2015 13:25:16 +0800</pubDate>
       
-      <guid>/post/livebuild/</guid>
+      <guid>https://ilulu.xyz/post/livebuild/</guid>
       <description>
 
 &lt;h1 id=&#34;关于iamserver:f296fb3d9ff0c9135e7118ad7c31cce1&#34;&gt;关于IamServer&lt;/h1&gt;
@@ -66,17 +66,17 @@
 &lt;h2 id=&#34;开始直播吧:f296fb3d9ff0c9135e7118ad7c31cce1&#34;&gt;开始直播吧！&lt;/h2&gt;
 
 &lt;p&gt;下载完成了IamServer zip文件后，解压缩其为一个独立的文件夹。例如下面图：
-&lt;img src=&#34;/livebuild/images/1.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://ilulu.xyz/livebuild/images/1.png&#34; alt=&#34;&#34; /&gt;
 在Mac下你需要&lt;code&gt;cd&lt;/code&gt;到文件夹的内的&lt;code&gt;bin&lt;/code&gt;目录下启动&lt;code&gt;./IamServer&lt;/code&gt; ，在windwos下直接启动文件夹内的&lt;code&gt;IamServer.exe&lt;/code&gt;程序即可。同样在启动程序的时候你可以加上&lt;code&gt;-name&lt;/code&gt;参数，它可以配置你的直播房间名，不过需要windwos下的同学注意，仅支持&lt;code&gt;UTF-8&lt;/code&gt;编码哦。如果一切顺利你将看到如下逼格极高的启动画面：
-&lt;img src=&#34;/livebuild/images/2.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://ilulu.xyz/livebuild/images/2.png&#34; alt=&#34;&#34; /&gt;
 OK，现在配置OBS
-&lt;img src=&#34;/livebuild/images/3.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://ilulu.xyz/livebuild/images/3.png&#34; alt=&#34;&#34; /&gt;
 URL为&lt;code&gt;rtmp://localhost/live&lt;/code&gt;,流密钥为&lt;code&gt;123&lt;/code&gt;,
 接下来添加OBS需要捕获的音视频设备，点击串流即可开始发布直播流
-&lt;img src=&#34;/livebuild/images/4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://ilulu.xyz/livebuild/images/4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;IamServer将会监听你电脑所有网卡设备的9090端口，在浏览器里输入你的IP或者域名就直接可以观看直播了
-&lt;img src=&#34;/livebuild/images/5.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://ilulu.xyz/livebuild/images/5.png&#34; alt=&#34;&#34; /&gt;
 在观看直播的时候输入用户名，就可以和小伙伴的愉快的聊天和玩耍弹幕了，unicode表情是得到支持的哦。在左上角还可以查看当前直播间的观看人数哦。&lt;br /&gt;
 大家玩的开心！😄&lt;/p&gt;
 </description>
@@ -84,10 +84,10 @@ URL为&lt;code&gt;rtmp://localhost/live&lt;/code&gt;,流密钥为&lt;code&gt;123
     
     <item>
       <title>重邮自由软件组织</title>
-      <link>/post/cquptorg/</link>
+      <link>https://ilulu.xyz/post/cquptorg/</link>
       <pubDate>Sun, 22 Nov 2015 14:21:23 +0800</pubDate>
       
-      <guid>/post/cquptorg/</guid>
+      <guid>https://ilulu.xyz/post/cquptorg/</guid>
       <description>
 
 &lt;h1 id=&#34;成立重邮自由软件组织的一些想法:7ded2a77b1f568308dc075a3620bc742&#34;&gt;成立重邮自由软件组织的一些想法&lt;/h1&gt;
