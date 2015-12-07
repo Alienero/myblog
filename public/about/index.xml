@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Yim&#39;s Blog</title>
-    <link>https://ilulu.xyz/about/</link>
+    <link>/about/</link>
     <description>Recent content in Abouts on Yim&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Dec 2015 02:38:31 +0800</lastBuildDate>
-    <atom:link href="https://ilulu.xyz/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://ilulu.xyz/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 06 Dec 2015 02:38:31 +0800</pubDate>
       
-      <guid>https://ilulu.xyz/about/</guid>
+      <guid>/about/</guid>
       <description>
 
 &lt;p&gt;大四软件工程在读学生，爱代码爱开源～～即将去一家卖东西的公司工作，永葆初心&lt;/p&gt;

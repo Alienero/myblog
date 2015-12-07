@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://ilulu.xyz"
+baseurl = "/"
 languageCode = "en-us"
 title = "Yim's Blog"
 theme = "hugo-cactus-theme"
