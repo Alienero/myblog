@@ -22,6 +22,3 @@ title = "About"
 ## 联系我
 * [Github](https://github.com/Alienero)
 * yiyan.lu#me.com
-
-## 国内访问卡顿
-可以使用镜像网站[镜像](http://7xoyoy.com1.z0.glb.clouddn.com)

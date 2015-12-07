@@ -1,12 +1,12 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://ilulu.xyz"
 languageCode = "en-us"
 title = "Yim's Blog"
 theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
-disqusShortname = "Yim"
+disqusShortname = "Alienero"
 
 [params]
 	name = "Yim's Blog"
