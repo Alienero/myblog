@@ -2,145 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yim&#39;s Blog</title>
-    <link>https://ilulu.xyz/</link>
+    <link>https://0xff.cx/</link>
     <description>Recent content on Yim&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Dec 2015 02:38:31 +0800</lastBuildDate>
-    <atom:link href="https://ilulu.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://0xff.cx/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>About</title>
-      <link>https://ilulu.xyz/about/</link>
+      <link>https://0xff.cx/about/</link>
       <pubDate>Sun, 06 Dec 2015 02:38:31 +0800</pubDate>
       
-      <guid>https://ilulu.xyz/about/</guid>
-      <description>
-
-&lt;p&gt;大四软件工程在读学生，爱代码爱开源～～即将去一家卖东西的公司工作，永葆初心&lt;/p&gt;
-
-&lt;h2 id=&#34;正在做:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;正在做&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/FlexibleBroadband&#34;&gt;弹性宽带&lt;/a&gt; : 利用校园网利用闲置带宽，希望毕业前能完成开发&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Alienero/Rambo&#34;&gt;Rambo&lt;/a&gt; : 我的毕业设计&amp;hellip;Mysql分库分表中间件&lt;br&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;好友:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;好友&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://wuwen.org/&#34;&gt;无闻Unknwon&lt;/a&gt;- 我是你的大粉丝~~gogs作者&lt;br /&gt;
-&lt;a href=&#34;http://zhaodong.duapp.com/&#34;&gt;谢同学&lt;/a&gt;-  最猥琐的男人&lt;br /&gt;
-&lt;a href=&#34;http://golzy.top&#34;&gt;李叼叼&lt;/a&gt;- 好基友&lt;br /&gt;
-&lt;a href=&#34;http://ios.dog/&#34;&gt;B大&lt;/a&gt;- ios dog 域名好亮&lt;br /&gt;
-&lt;a href=&#34;http://jucsinyu.com/&#34;&gt;孙组长&lt;/a&gt;- 组长好可爱&lt;br&gt;
-&lt;a href=&#34;http://harry.wiki/&#34;&gt;怡同学&lt;/a&gt;- 一路上，在前行..&lt;/p&gt;
-
-&lt;h2 id=&#34;联系我:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;联系我&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Alienero&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;yiyan.lu#me.com&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://0xff.cx/about/</guid>
+      <description> 大四软件工程在读学生，爱代码爱开源～～即将去一家卖东西的公司工作，永葆初心
+正在做  弹性宽带 : 利用校园网利用闲置带宽，希望毕业前能完成开发 Rambo : 我的毕业设计&amp;hellip;Mysql分库分表中间件
+  好友 无闻Unknwon- 我是你的大粉丝~~gogs作者
+谢同学- 最猥琐的男人
+李叼叼- 好基友
+B大- ios dog 域名好亮
+孙组长- 组长好可爱
+怡同学- 一路上，在前行..
+联系我  Github yiyan.lu#me.com  </description>
     </item>
     
     <item>
       <title>IamServer 第一内测版单机搭建</title>
-      <link>https://ilulu.xyz/post/livebuild/</link>
+      <link>https://0xff.cx/post/livebuild/</link>
       <pubDate>Thu, 03 Dec 2015 13:25:16 +0800</pubDate>
       
-      <guid>https://ilulu.xyz/post/livebuild/</guid>
-      <description>
-
-&lt;h1 id=&#34;关于iamserver:f296fb3d9ff0c9135e7118ad7c31cce1&#34;&gt;关于IamServer&lt;/h1&gt;
-
-&lt;p&gt;IamServer 是一个简单的直播流解决方案，使用了OBS-&amp;gt;RTMP-&amp;gt;IamServer-&amp;gt;HTTP-FLV 架构，具体技术细节将不在本文中讨论，本文仅关注于环境的搭建。&lt;/p&gt;
-
-&lt;h2 id=&#34;准备工作:f296fb3d9ff0c9135e7118ad7c31cce1&#34;&gt;准备工作&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://obsproject.com/&#34;&gt;OBS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Alienero/IamServer/releases&#34;&gt;IamServer 程序&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;开始直播吧:f296fb3d9ff0c9135e7118ad7c31cce1&#34;&gt;开始直播吧！&lt;/h2&gt;
-
-&lt;p&gt;下载完成了IamServer zip文件后，解压缩其为一个独立的文件夹。例如下面图：
-&lt;img src=&#34;https://ilulu.xyz/livebuild/images/1.png&#34; alt=&#34;&#34; /&gt;
-在Mac下你需要&lt;code&gt;cd&lt;/code&gt;到文件夹的内的&lt;code&gt;bin&lt;/code&gt;目录下启动&lt;code&gt;./IamServer&lt;/code&gt; ，在windwos下直接启动文件夹内的&lt;code&gt;IamServer.exe&lt;/code&gt;程序即可。同样在启动程序的时候你可以加上&lt;code&gt;-name&lt;/code&gt;参数，它可以配置你的直播房间名，不过需要windwos下的同学注意，仅支持&lt;code&gt;UTF-8&lt;/code&gt;编码哦。如果一切顺利你将看到如下逼格极高的启动画面：
-&lt;img src=&#34;https://ilulu.xyz/livebuild/images/2.png&#34; alt=&#34;&#34; /&gt;
-OK，现在配置OBS
-&lt;img src=&#34;https://ilulu.xyz/livebuild/images/3.png&#34; alt=&#34;&#34; /&gt;
-URL为&lt;code&gt;rtmp://localhost/live&lt;/code&gt;,流密钥为&lt;code&gt;123&lt;/code&gt;,
-接下来添加OBS需要捕获的音视频设备，点击串流即可开始发布直播流
-&lt;img src=&#34;https://ilulu.xyz/livebuild/images/4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;IamServer将会监听你电脑所有网卡设备的9090端口，在浏览器里输入你的IP或者域名就直接可以观看直播了
-&lt;img src=&#34;https://ilulu.xyz/livebuild/images/5.png&#34; alt=&#34;&#34; /&gt;
-在观看直播的时候输入用户名，就可以和小伙伴的愉快的聊天和玩耍弹幕了，unicode表情是得到支持的哦。在左上角还可以查看当前直播间的观看人数哦。&lt;br /&gt;
-大家玩的开心！😄&lt;/p&gt;
-</description>
+      <guid>https://0xff.cx/post/livebuild/</guid>
+      <description>关于IamServer IamServer 是一个简单的直播流解决方案，使用了OBS-&amp;gt;RTMP-&amp;gt;IamServer-&amp;gt;HTTP-FLV 架构，具体技术细节将不在本文中讨论，本文仅关注于环境的搭建。
+准备工作  OBS IamServer 程序  开始直播吧！ 下载完成了IamServer zip文件后，解压缩其为一个独立的文件夹。例如下面图： 在Mac下你需要cd到文件夹的内的bin目录下启动./IamServer ，在windwos下直接启动文件夹内的IamServer.exe程序即可。同样在启动程序的时候你可以加上-name参数，它可以配置你的直播房间名，不过需要windwos下的同学注意，仅支持UTF-8编码哦。如果一切顺利你将看到如下逼格极高的启动画面： OK，现在配置OBS URL为rtmp://localhost/live,流密钥为123, 接下来添加OBS需要捕获的音视频设备，点击串流即可开始发布直播流 IamServer将会监听你电脑所有网卡设备的9090端口，在浏览器里输入你的IP或者域名就直接可以观看直播了 在观看直播的时候输入用户名，就可以和小伙伴的愉快的聊天和玩耍弹幕了，unicode表情是得到支持的哦。在左上角还可以查看当前直播间的观看人数哦。
+大家玩的开心！😄</description>
     </item>
     
     <item>
       <title>重邮自由软件组织</title>
-      <link>https://ilulu.xyz/post/cquptorg/</link>
+      <link>https://0xff.cx/post/cquptorg/</link>
       <pubDate>Sun, 22 Nov 2015 14:21:23 +0800</pubDate>
       
-      <guid>https://ilulu.xyz/post/cquptorg/</guid>
-      <description>
-
-&lt;h1 id=&#34;成立重邮自由软件组织的一些想法:7ded2a77b1f568308dc075a3620bc742&#34;&gt;成立重邮自由软件组织的一些想法&lt;/h1&gt;
+      <guid>https://0xff.cx/post/cquptorg/</guid>
+      <description>&lt;h1 id=&#34;成立重邮自由软件组织的一些想法&#34;&gt;成立重邮自由软件组织的一些想法&lt;/h1&gt;
 
 &lt;p&gt;近年以来重邮整体IT水平不断的提高，各个实验室频出优秀的小伙伴。但各个实验室中缺乏一定的技术交流。同时拿了优秀Offer的小伙伴们也没有一个平台来给组织大家来，贡献一些技术问题，提高整体学校的技术氛围。 所以我提议希望能成立一个在校内的&lt;code&gt;自由软件组织&lt;/code&gt;。一群有想法的小伙伴，做一件简简单单的事。&lt;/p&gt;
 
-&lt;h2 id=&#34;一些简单的想法:7ded2a77b1f568308dc075a3620bc742&#34;&gt;一些简单的想法&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;目的：&lt;/strong&gt;组织以不盈利，提升自身技术水平和校园技术氛围。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;成员：&lt;/strong&gt;成员主要为推动成员&lt;code&gt;(会员)&lt;/code&gt;为每一届应届的优秀毕业生。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;项目&lt;/strong&gt;：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;直播平台&lt;/li&gt;
-&lt;li&gt;技术交流社区&lt;/li&gt;
-&lt;li&gt;代码托管平台&lt;/li&gt;
-&lt;li&gt;校园弹性宽带&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;内外直播：&lt;/strong&gt; &lt;a href=&#34;http://ios.dog/&#34;&gt;B大&lt;/a&gt; 提议我们在学校内搭建一个直播的平台，每周我们都可以在上面进行技术的分享。如果很多小伙伴都在上面直播写代码了，那么小学弟们就可以根据自己的兴趣，向学长们学习，应该怎么学习这方面的知识。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;目前的情况：&lt;/em&gt; 希望 &lt;a href=&#34;http://ios.dog/&#34;&gt;B大&lt;/a&gt; 能 Owner ，并加入这个一自由软件的组织😊&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;技术介绍：&lt;/em&gt; 目前这个项目基于RTMP进行直播的录制，服务器使用Nginx的rtmp扩展，直播观看使用HLS&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;技术交流社区：&lt;/strong&gt; &lt;a href=&#34;http://coderxie.duapp.com&#34;&gt;谢神&lt;/a&gt;建议我们在内网里面建立一个技术交流的社区，解决问题、分享信息&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;目前的情况：&lt;/em&gt; 现阶段还未启动，将基于开源项目搭建。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;代码托管平台：&lt;/strong&gt; 在校内建立一个Gitlab用于大家分享代码，并且协作解决问题&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;目前的情况：&lt;/em&gt; 目前还未启动如果小伙伴们可以提供服务器，我可以来Owner这件事情，或者大家愿意在我的服务器上面使用的话。我将保证大家密码不被泄漏，并提供HTTP2(包含证书)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;校园弹性宽带：&lt;/strong&gt; 合理利用校园内的带宽资源，为校内网项目提供大流量技术支持，并将专网与公网结合，使校内项目面向全国高校，打通高校内部的交流。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;目前的情况：&lt;/em&gt; 弹性带宽目前的进度依然很是缓慢，由于技术难点和人力的缺乏，希望小伙伴们多多提供帮助😢&lt;/p&gt;
-
-&lt;h2 id=&#34;展望:7ded2a77b1f568308dc075a3620bc742&#34;&gt;展望&lt;/h2&gt;
-
-&lt;p&gt;希望通过校园内的直播平台，提供大家接触新技术的机会，增强实时的技术交流。通过论坛分享信息，并且发起项目，由内网Git进行托管。若项目发展优秀，那么向Github转移，做一个优秀的重邮开源软件。同时也可向学校申请捐赠。最后使用弹性宽带为校内项目提供带宽支持，并且让各大专网连通。建立起重庆高校联盟，西南地区，乃至全国。&lt;/p&gt;
-
-&lt;p&gt;最后，大家觉得想法怎么样呢😊，也希望我们伟大的&lt;a href=&#34;http://jucsinyu.com/&#34;&gt;群主&lt;/a&gt;把我们更好的组织起来&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

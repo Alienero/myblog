@@ -1,25 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ilulu.xyz/</loc>
-    <lastmod>2015-12-06T02:38:31+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilulu.xyz/about/</loc>
+    <loc>https://0xff.cx/about/</loc>
     <lastmod>2015-12-06T02:38:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ilulu.xyz/post/livebuild/</loc>
+    <loc>https://0xff.cx/post/livebuild/</loc>
     <lastmod>2015-12-03T13:25:16+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ilulu.xyz/post/cquptorg/</loc>
+    <loc>https://0xff.cx/post/cquptorg/</loc>
     <lastmod>2015-11-22T14:21:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0xff.cx/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://0xff.cx/post/</loc>
+    <lastmod>2015-12-03T13:25:16+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://0xff.cx/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://0xff.cx/</loc>
+    <lastmod>2015-12-06T02:38:31+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
