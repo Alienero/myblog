@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Yim&#39;s Blog</title>
-    <link>https://0xff.cx/post/</link>
+    <link>https://yiyan.lu/post/</link>
     <description>Recent content in Posts on Yim&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Dec 2015 13:25:16 +0800</lastBuildDate>
     
-	<atom:link href="https://0xff.cx/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yiyan.lu/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IamServer 第一内测版单机搭建</title>
-      <link>https://0xff.cx/post/livebuild/</link>
+      <link>https://yiyan.lu/post/livebuild/</link>
       <pubDate>Thu, 03 Dec 2015 13:25:16 +0800</pubDate>
       
-      <guid>https://0xff.cx/post/livebuild/</guid>
+      <guid>https://yiyan.lu/post/livebuild/</guid>
       <description>关于IamServer IamServer 是一个简单的直播流解决方案，使用了OBS-&amp;gt;RTMP-&amp;gt;IamServer-&amp;gt;HTTP-FLV 架构，具体技术细节将不在本文中讨论，本文仅关注于环境的搭建。
 准备工作  OBS IamServer 程序  开始直播吧！ 下载完成了IamServer zip文件后，解压缩其为一个独立的文件夹。例如下面图： 在Mac下你需要cd到文件夹的内的bin目录下启动./IamServer ，在windwos下直接启动文件夹内的IamServer.exe程序即可。同样在启动程序的时候你可以加上-name参数，它可以配置你的直播房间名，不过需要windwos下的同学注意，仅支持UTF-8编码哦。如果一切顺利你将看到如下逼格极高的启动画面： OK，现在配置OBS URL为rtmp://localhost/live,流密钥为123, 接下来添加OBS需要捕获的音视频设备，点击串流即可开始发布直播流 IamServer将会监听你电脑所有网卡设备的9090端口，在浏览器里输入你的IP或者域名就直接可以观看直播了 在观看直播的时候输入用户名，就可以和小伙伴的愉快的聊天和玩耍弹幕了，unicode表情是得到支持的哦。在左上角还可以查看当前直播间的观看人数哦。
 大家玩的开心！😄</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>重邮自由软件组织</title>
-      <link>https://0xff.cx/post/cquptorg/</link>
+      <link>https://yiyan.lu/post/cquptorg/</link>
       <pubDate>Sun, 22 Nov 2015 14:21:23 +0800</pubDate>
       
-      <guid>https://0xff.cx/post/cquptorg/</guid>
+      <guid>https://yiyan.lu/post/cquptorg/</guid>
       <description>&lt;h1 id=&#34;成立重邮自由软件组织的一些想法&#34;&gt;成立重邮自由软件组织的一些想法&lt;/h1&gt;
 
 &lt;p&gt;近年以来重邮整体IT水平不断的提高，各个实验室频出优秀的小伙伴。但各个实验室中缺乏一定的技术交流。同时拿了优秀Offer的小伙伴们也没有一个平台来给组织大家来，贡献一些技术问题，提高整体学校的技术氛围。 所以我提议希望能成立一个在校内的&lt;code&gt;自由软件组织&lt;/code&gt;。一群有想法的小伙伴，做一件简简单单的事。&lt;/p&gt;

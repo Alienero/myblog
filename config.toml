@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://0xff.cx/"
+baseurl = "https://yiyan.lu/"
 languageCode = "en-us"
 title = "Yim's Blog"
 theme = "hugo-cactus-theme"
